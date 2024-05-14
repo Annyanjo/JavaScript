@@ -7,4 +7,4 @@ const calcularDano = (ataque, defesa) => {
     
     // Chamando a função para calcular o dano causado por um ataque
     const danoCausado = calcularDano(50, 20);
-    console. log("Dano causado pelo ataque:", danoCausado);
+    console. log("Dano causado pelo ataque:", danoCausado);}
